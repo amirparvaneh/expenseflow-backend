@@ -1,4 +1,4 @@
-package com.expenseflow.backend.expense.domain;
+package com.expenseflow.expense.domain;
 
 
 import jakarta.persistence.Entity;

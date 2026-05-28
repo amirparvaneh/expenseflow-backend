@@ -1,4 +1,4 @@
-package com.expenseflow.backend.common.exception;
+package com.expenseflow.common.exception;
 
 public class ResourceNotFoundException extends BusinessException {
 

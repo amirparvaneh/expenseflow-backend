@@ -1,6 +1,6 @@
-package com.expenseflow.backend.expense.repository;
+package com.expenseflow.expense.repository;
 
-import com.expenseflow.backend.expense.domain.Expense;
+import com.expenseflow.expense.domain.Expense;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
