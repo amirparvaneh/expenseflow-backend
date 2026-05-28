@@ -1,4 +1,4 @@
-package com.expenseflow.backend;
+package com.expenseflow.backend.expenseflowapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
